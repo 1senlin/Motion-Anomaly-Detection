@@ -1,7 +1,7 @@
 The folder contains the following documents:
 * Final Report for the research project
 Jupyter notebooks have been provided for the following tasks:
-* Comapring Levernbrg-Marquardt and Covariance Matrix Adaptation- Evolution Startegy for phase portrait classification.
+* Comapring Levenberg-Marquardt and Covariance Matrix Adaptation- Evolution Startegy for phase portrait classification.
 * Classification of phase portraits
 * Tracking critical points in phase portrait for motion anomalies
 * A linear algorithm implpementation of the phase portrait classification
