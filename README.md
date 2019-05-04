@@ -1,5 +1,6 @@
 The folder contains the following documents:
 * Final Report for the research project
+
 Jupyter notebooks have been provided for the following tasks:
 * Comapring Levenberg-Marquardt and Covariance Matrix Adaptation- Evolution Startegy for phase portrait classification.
 * Classification of phase portraits
